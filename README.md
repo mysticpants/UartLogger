@@ -33,3 +33,7 @@ Writes the supplied message to the uart and to server.error if the device is con
 logs.error("test");
 // Output: "2016-08-19 10:21:00    [ERROR] test"
 ```
+
+# License
+
+The UartLogger class is licensed under the [MIT License](https://github.com/mysticpants/UartLogger/LICENSE)
